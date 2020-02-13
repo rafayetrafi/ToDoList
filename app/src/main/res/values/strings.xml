@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_today">Today</string>
+    <string name="action_next7days">Next 7 Days</string>
+    <string name="action_next30days">Next 30 Days</string>
+    <string name="action_all">All</string>
+
+    <string name="text_date">Date</string>
+    <string name="text_name">Name</string>
+    <string name="text_category">Category</string>
+    <string name="text_status">Status</string>
+    <string name="text_description">Description</string>
+    <string name="text_save">Save</string>
+
+    <string name="hints_category">Enter category name</string>
+
+    <string name="title_add">Add</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_message">Message</string>
+
+    <string-array name="floating_array">
+        <item>Edit</item>
+        <item>Delete</item>
+        <item>Message</item>
+    </string-array>
+</resources>
+
